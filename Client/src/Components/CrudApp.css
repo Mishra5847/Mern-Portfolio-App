@@ -1,0 +1,12 @@
+ @media (max-width: 767.98px) {
+    .img404{
+        height: 20rem;
+        width: 30rem;
+ }
+}
+
+ @media (min-width:  767.99px) {
+    .img404{
+        height: 20rem;
+ }
+}
